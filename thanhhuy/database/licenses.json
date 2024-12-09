@@ -1,69 +1,11 @@
-<<<<<<< HEAD
 {
-  "71c8b6fc63b0a10fb738a9b5bc891f3b": {
-    "key": "71c8b6fc63b0a10fb738a9b5bc891f3b",
-    "customerName": "Gia Toan Media",
-    "createdAt": "2024-12-06T14:56:27.099Z",
-    "expiryDate": "2025-12-06T14:56:27.099Z",
-    "maxDevices": 3,
-    "devices": [],
-    "status": "active"
-  },
-  "fcd246387ca5a52c91144f29c9c88d4e": {
-    "key": "fcd246387ca5a52c91144f29c9c88d4e",
-    "customerName": "adstoan",
-    "createdAt": "2024-12-06T17:32:00.557Z",
-    "expiryDate": "2025-01-05T17:32:00.556Z",
-    "maxDevices": 1,
-    "devices": [],
-    "status": "active"
-  },
-  "8b1e4672f2b3be98296758428d865ec9": {
-    "key": "8b1e4672f2b3be98296758428d865ec9",
-    "customerName": "Toanads2",
-    "createdAt": "2024-12-07T11:17:26.532Z",
-    "expiryDate": "2025-12-07T11:17:26.532Z",
-    "maxDevices": 2,
-    "devices": [],
-    "status": "active"
-  },
-  "d3c2e8ed7c4b53b9a904b73c4e86e029": {
-    "key": "d3c2e8ed7c4b53b9a904b73c4e86e029",
+  "f44ebc7b197c4514b17522c05e280fbc": {
+    "key": "f44ebc7b197c4514b17522c05e280fbc",
     "customerName": "Unknown",
-    "createdAt": "2024-12-09T15:38:32.198Z",
-    "expiryDate": "2025-12-09T15:38:32.197Z",
-    "maxDevices": 3,
-    "devices": [],
-    "status": "active"
-  },
-  "c842d8ad921aca1a2e8febec8a20c2d3": {
-    "key": "c842d8ad921aca1a2e8febec8a20c2d3",
-    "customerName": "Unknown",
-    "createdAt": "2024-12-09T15:52:47.784Z",
-    "expiryDate": "2025-12-09T15:52:47.784Z",
-    "maxDevices": 3,
-    "devices": [],
-    "status": "active"
-  },
-  "9e6bcf49b86a9f6e8fb91f173edf2d1d": {
-    "key": "9e6bcf49b86a9f6e8fb91f173edf2d1d",
-    "customerName": "Unknown",
-    "createdAt": "2024-12-09T16:15:04.312Z",
-    "expiryDate": "2025-12-09T16:15:04.312Z",
-    "maxDevices": 3,
-    "devices": [],
-    "status": "active"
-  },
-  "a58ef59dbc56a05c4bae10281dcfe5e4": {
-    "key": "a58ef59dbc56a05c4bae10281dcfe5e4",
-    "customerName": "Unknown",
-    "createdAt": "2024-12-09T16:26:56.165Z",
-    "expiryDate": "2025-12-09T16:26:56.164Z",
+    "createdAt": "2024-12-09T16:58:40.729Z",
+    "expiryDate": "2025-12-09T16:58:40.729Z",
     "maxDevices": 3,
     "devices": [],
     "status": "active"
   }
 }
-=======
-
->>>>>>> 421be9947ea0ad39d6578d41bd92a31a168cddf8
