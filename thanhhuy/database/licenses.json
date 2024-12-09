@@ -1,23 +1,11 @@
 {
-<<<<<<< HEAD
-  "f44ebc7b197c4514b17522c05e280fbc": {
-    "key": "f44ebc7b197c4514b17522c05e280fbc",
+  "670dcd5f0feebf9242e70f0b80018f92": {
+    "key": "670dcd5f0feebf9242e70f0b80018f92",
     "customerName": "Unknown",
-    "createdAt": "2024-12-09T16:58:40.729Z",
-    "expiryDate": "2025-12-09T16:58:40.729Z",
-=======
-  "a58ef59dbc56a05c4bae10281dcfe5e4": {
-    "key": "a58ef59dbc56a05c4bae10281dcfe5e4",
-    "customerName": "PC nha",
-    "createdAt": "2024-12-09T16:26:56.165Z",
-    "expiryDate": "2025-12-09T16:26:56.164Z",
->>>>>>> 00cf1f8f2aee6dd1b5b0ada2ac38054f54f5ef82
+    "createdAt": "2024-12-09T17:20:34.552Z",
+    "expiryDate": "2025-12-09T17:20:34.552Z",
     "maxDevices": 3,
     "devices": [],
     "status": "active"
   }
-<<<<<<< HEAD
 }
-=======
-}
->>>>>>> 00cf1f8f2aee6dd1b5b0ada2ac38054f54f5ef82
