@@ -1,10 +1,10 @@
 {
-  "d3c2e8ed7c4b53b9a904b73c4e86e025": {
-  "key": "d3c2e8ed7c4b53b9a904b73c4e86e025",
+  "c842d8ad921aca1a2e8febec8a20c2d3": {
+  "key": "c842d8ad921aca1a2e8febec8a20c2d3",
   "customerName": "Unknown",
-  "createdAt": "2024-12-09T15:38:32.198Z",
-  "expiryDate": "2025-12-09T15:38:32.197Z",
-  "maxDevices": 1,
+  "createdAt": "2024-12-09T15:52:47.784Z",
+  "expiryDate": "2025-12-09T15:52:47.784Z",
+  "maxDevices": 3,
   "devices": [],
   "status": "active"
-},
+}
