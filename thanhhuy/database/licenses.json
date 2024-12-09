@@ -1,22 +1,19 @@
 {
-<<<<<<< HEAD
   "670dcd5f0feebf9242e70f0b80018f92": {
     "key": "670dcd5f0feebf9242e70f0b80018f92",
-    "customerName": "Unknown",
+    "customerName": "Chua co ai",
     "createdAt": "2024-12-09T17:20:34.552Z",
     "expiryDate": "2025-12-09T17:20:34.552Z",
-=======
+        "maxDevices": 1,
+    "devices": [],
+    "status": "active"
+  },
   "a58ef59dbc56a05c4bae10281dcfe5e4": {
     "key": "a58ef59dbc56a05c4bae10281dcfe5e4",
     "customerName": "PC nha",
     "createdAt": "2024-12-09T16:26:56.165Z",
     "expiryDate": "2025-12-09T16:26:56.164Z",
->>>>>>> aff1a7450c4752d5ff3a1ad83acb2890f048f1db
     "maxDevices": 3,
     "devices": [],
     "status": "active"
   }
-<<<<<<< HEAD
-}
-=======
->>>>>>> aff1a7450c4752d5ff3a1ad83acb2890f048f1db
