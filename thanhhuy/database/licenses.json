@@ -1,15 +1,20 @@
-<<<<<<< HEAD
 {
-  "670dcd5f0feebf9242e70f0b80018f92": {
-    "key": "670dcd5f0feebf9242e70f0b80018f92",
+  "116a9eaa1a4e56aa1a3e0e9cb8f8e3fd": {
+    "key": "116a9eaa1a4e56aa1a3e0e9cb8f8e3fd",
     "customerName": "Unknown",
-    "createdAt": "2024-12-09T17:20:34.552Z",
-    "expiryDate": "2025-12-09T17:20:34.552Z",
+    "createdAt": "2024-12-11T13:04:51.523Z",
+    "expiryDate": "2025-12-11T13:04:51.523Z",
+    "maxDevices": 3,
+    "devices": [],
+    "status": "active"
+  },
+  "6301ac45b6a7275c465c5ecbfffe6a24": {
+    "key": "6301ac45b6a7275c465c5ecbfffe6a24",
+    "customerName": "Unknown",
+    "createdAt": "2024-12-11T13:06:05.913Z",
+    "expiryDate": "2025-12-11T13:06:05.913Z",
     "maxDevices": 3,
     "devices": [],
     "status": "active"
   }
 }
-=======
-
->>>>>>> 7bdb6c0e18033697d857846fd006048351ed2dd4
