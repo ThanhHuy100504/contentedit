@@ -34,5 +34,14 @@
     "maxDevices": 3,
     "devices": [],
     "status": "active"
+  },
+  "6d6c9b8b01a8369c081bf9fbb14e782a": {
+    "key": "6d6c9b8b01a8369c081bf9fbb14e782a",
+    "customerName": "Unknown",
+    "createdAt": "2025-01-09T12:20:11.941Z",
+    "expiryDate": "2026-01-09T12:20:11.935Z",
+    "maxDevices": 3,
+    "devices": [],
+    "status": "active"
   }
 }
