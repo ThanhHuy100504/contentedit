@@ -1,63 +1,9 @@
 {
-  "116a9eaa1a4e56aa1a3e0e9cb8f8e3fd": {
-    "key": "116a9eaa1a4e56aa1a3e0e9cb8f8e3fd",
-    "customerName": "Unknown",
-    "createdAt": "2024-12-11T13:04:51.523Z",
-    "expiryDate": "2025-12-11T13:04:51.523Z",
-    "maxDevices": 3,
-    "devices": [],
-    "status": "active"
-  },
-  "5b1f7bdea664a3d065ed8a938a3651cf": {
-    "key": "5b1f7bdea664a3d065ed8a938a3651cf",
-    "customerName": "TienDat",
-    "createdAt": "2024-12-26T16:06:50.583Z",
-    "expiryDate": "2025-12-26T16:06:50.583Z",
-    "maxDevices": 2,
-    "devices": [],
-    "status": "active"
-  },
-  "253e7a9efd61b715c3e3c00d9015a5f5": {
-    "key": "253e7a9efd61b715c3e3c00d9015a5f5",
-    "customerName": "abcxyz",
-    "createdAt": "2024-12-26T17:01:52.312Z",
-    "expiryDate": "2025-01-25T17:01:52.311Z",
-    "maxDevices": 2,
-    "devices": [],
-    "status": "active"
-  },
-  "00ab2c15254975d8ca68a77ccb8bee7c": {
-    "key": "00ab2c15254975d8ca68a77ccb8bee7c",
-    "customerName": "A Hieu",
-    "createdAt": "2025-01-07T05:59:05.353Z",
-    "expiryDate": "2026-01-07T05:59:05.352Z",
-    "maxDevices": 3,
-    "devices": [],
-    "status": "active"
-  },
-  "6d6c9b8b01a8369c081bf9fbb14e782a": {
-    "key": "6d6c9b8b01a8369c081bf9fbb14e782a",
-    "customerName": "Unknown",
-    "createdAt": "2025-01-09T12:20:11.941Z",
-    "expiryDate": "2026-01-09T12:20:11.935Z",
-    "maxDevices": 3,
-    "devices": [],
-    "status": "active"
-  },
-  "3653e041f6fba99830b36d888a84ad61": {
-    "key": "3653e041f6fba99830b36d888a84ad61",
-    "customerName": "Unknown",
-    "createdAt": "2025-01-09T12:59:44.115Z",
-    "expiryDate": "2026-01-09T12:59:44.114Z",
-    "maxDevices": 3,
-    "devices": [],
-    "status": "active"
-  },
-  "9ff6bbecddbbe48189cf2841cbd362b7": {
-    "key": "9ff6bbecddbbe48189cf2841cbd362b7",
-    "customerName": "Unknown",
-    "createdAt": "2025-01-09T13:00:38.220Z",
-    "expiryDate": "2026-01-09T13:00:38.220Z",
+  "ad4bc89f256d9368c58b79ef654aabe8": {
+    "key": "ad4bc89f256d9368c58b79ef654aabe8",
+    "customerName": "TanTest",
+    "createdAt": "2025-01-09T13:16:13.408Z",
+    "expiryDate": "2025-01-12T13:16:13.407Z",
     "maxDevices": 3,
     "devices": [],
     "status": "active"
