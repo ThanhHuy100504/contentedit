@@ -26,33 +26,6 @@
     "devices": [],
     "status": "active"
   },
-  "00ab2c15254975d8ca68a77ccb8bee7c": {
-    "key": "00ab2c15254975d8ca68a77ccb8bee7c",
-    "customerName": "A Hieu",
-    "createdAt": "2025-01-07T05:59:05.353Z",
-    "expiryDate": "2026-01-07T05:59:05.352Z",
-    "maxDevices": 3,
-    "devices": [],
-    "status": "active"
-  },
-  "ad4bc89f256d9368c58b79ef654aabe8": {
-    "key": "ad4bc89f256d9368c58b79ef654aabe8",
-    "customerName": "TanTest",
-    "createdAt": "2025-01-09T13:16:13.408Z",
-    "expiryDate": "2025-01-12T13:16:13.407Z",
-    "maxDevices": 3,
-    "devices": [],
-    "status": "active"
-  },
-  "949706bd123e3d542cb46cd8587c78c5": {
-    "key": "949706bd123e3d542cb46cd8587c78c5",
-    "customerName": "Unknown",
-    "createdAt": "2025-01-10T03:07:40.646Z",
-    "expiryDate": "2026-01-10T03:07:40.646Z",
-    "maxDevices": 3,
-    "devices": [],
-    "status": "active"
-  },
   "181460f3b80ab1d4e0e62aa08189a81a": {
     "key": "181460f3b80ab1d4e0e62aa08189a81a",
     "customerName": "Unknown",
