@@ -25,14 +25,5 @@
     "maxDevices": 2,
     "devices": [],
     "status": "active"
-  },
-  "181460f3b80ab1d4e0e62aa08189a81a": {
-    "key": "181460f3b80ab1d4e0e62aa08189a81a",
-    "customerName": "Unknown",
-    "createdAt": "2025-01-22T13:54:47.923Z",
-    "expiryDate": "2026-01-22T13:54:47.923Z",
-    "maxDevices": 3,
-    "devices": [],
-    "status": "active"
   }
 }
