@@ -8,15 +8,6 @@
     "devices": [],
     "status": "active"
   },
-  "5b1f7bdea664a3d065ed8a938a3651cf": {
-    "key": "5b1f7bdea664a3d065ed8a938a3651cf",
-    "customerName": "TienDat",
-    "createdAt": "2024-12-26T16:06:50.583Z",
-    "expiryDate": "2025-12-26T16:06:50.583Z",
-    "maxDevices": 2,
-    "devices": [],
-    "status": "active"
-  },
   "253e7a9efd61b715c3e3c00d9015a5f5": {
     "key": "253e7a9efd61b715c3e3c00d9015a5f5",
     "customerName": "abcxyz",
