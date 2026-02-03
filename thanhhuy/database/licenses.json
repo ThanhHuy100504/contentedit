@@ -1,13 +1,4 @@
 {
-  "116a9eaa1a4e56aa1a3e0e9cb8f8e3f9z": {
-    "key": "116a9eaa1a4e56aa1a3e0e9cb8f8e3fd",
-    "customerName": "Unknown",
-    "createdAt": "2024-12-11T13:04:51.523Z",
-    "expiryDate": "2025-12-11T13:04:51.523Z",
-    "maxDevices": 3,
-    "devices": [],
-    "status": "active"
-  },
   "253e7a9efd61b715c3e3c00d9015a5f5": {
     "key": "253e7a9efd61b715c3e3c00d9015a5f5",
     "customerName": "abcxyz",
@@ -44,11 +35,19 @@
     "devices": [],
     "status": "active"
   },
+<<<<<<< HEAD
   "eb537a5fe9d572c2dcaaf8475c18ec53": {
     "key": "eb537a5fe9d572c2dcaaf8475c18ec5a",
     "customerName": "Máy anh Thắng",
     "createdAt": "2025-05-21T15:17:08.125Z",
     "expiryDate": "2026-05-21T15:17:08.122Z",
+=======
+  "b3d1ad1984159f8315143df630341223": {
+    "key": "b3d1ad1984159f8315143df630341223",
+    "customerName": "Mac Chrome",
+    "createdAt": "2026-02-03T02:32:10.084Z",
+    "expiryDate": "2027-02-03T02:32:10.080Z",
+>>>>>>> 902eaee (Key New Mac Pro)
     "maxDevices": 3,
     "devices": [],
     "status": "active"
