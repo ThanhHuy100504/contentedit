@@ -16,5 +16,14 @@
     "maxDevices": 3,
     "devices": [],
     "status": "active"
+  },
+  "0b8fe04cf221e87bd712399e0cfd48c2": {
+    "key": "0b8fe04cf221e87bd712399e0cfd48c2",
+    "customerName": "Huynh Anh Tuan",
+    "createdAt": "2026-07-14T06:25:39.677Z",
+    "expiryDate": "2027-07-14T06:25:39.674Z",
+    "maxDevices": 3,
+    "devices": [],
+    "status": "active"
   }
 }
